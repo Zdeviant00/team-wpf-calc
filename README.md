@@ -1,1 +1,1 @@
-# team-wpf-calc
+# Team WPF Calculator (Development in progress)
