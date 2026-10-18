@@ -1,0 +1,12 @@
+<UserControl x:class="TeamWpfCalc.Views.OperatorsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="200" Width="80">
+    <StackPanel Orientation="Verctical">
+        <Button Content="+" Height="40" Margin="5"/>
+        <Button Content="-" Height="40" Margin="5"/>
+        <Button Content="x" Height="40" Margin="5"/>
+        <Button Content="/" Height="40" Margin="5"/>
+        <Button Content="C" Height="40" Margin="5" Background="LightCoral"/>
+        </StackPanel>
+    </UserControl>
